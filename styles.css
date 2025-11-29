@@ -1,1 +1,33 @@
-/*  your css code here. If applicable */
+table {
+            border: 1px solid black;
+            border-collapse: collapse;
+            spacing: 1px;
+        }
+
+        td {
+            border: 1px solid black;
+            padding: 20px;
+			padding: 50px 50px
+        }
+
+        .middle {
+            margin: auto;
+        }
+
+        /* Classes for alignment */
+        .center {
+            text-align: center;
+        }
+
+        .right {
+            text-align: right;
+        }
+
+        /* Background colors */
+        .green {
+            background-color: green;
+        }
+
+        .blue {
+            background-color: blue;
+        }
